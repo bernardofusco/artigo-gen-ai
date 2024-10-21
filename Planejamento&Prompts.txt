@@ -1,0 +1,17 @@
+#Checklist artigo
+[X] - Definir o assunto: "Especialista e Consultor em IA"
+[X] - Título chamativo: "Especialista em Inteligência Artificial: O Que Faz e Como Pode Transformar Negócios"
+[X] - Imagem de capa:
+[X] - Blocos do artigo:
+[X] - Postar o artigo com um call to action:
+
+PROMPT 1:
+	Crie 10 headlines para nomes de arthigos sobre o assunto "Especialista e Consultor em IA"
+	
+PROMPT 2:
+	Seguindo esse tema "Especialista em Inteligência Artificial: O Que Faz e Como Pode Transformar Negócios" quero que crie em inglês, um prompt para um gerador de imagens, para que crie uma capa para um artigo.
+	Quero um prompt negativo também.
+	
+PROMPT 3:
+	Crie um artigo baseado no tema "Especialista em Inteligência Artificial: O Que Faz e Como Pode Transformar Negócios",
+	separado por blocos/titulos.
